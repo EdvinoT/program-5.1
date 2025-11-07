@@ -3,7 +3,7 @@ for x in friends:
     print("Happy New year, " + x + "!")
     print("")
     if len(x) > 5:
-        print("You have a lot of friends!")
+        print("You have a long name.")
 
 
 
