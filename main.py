@@ -1,17 +1,9 @@
-#Program Calucate sales commsions
-def main():
-    keep_going == "y"
-    
-    #Calculate deries of commision
-    
-    while keep_going == "y":
-        sales = input("Enter the amount of sales: ")
-        comm_rate = input("Enter the amount of commission rate: ")
-        commission = sales* comm_rate
-        #Display
-        print("the commission is $%.2." %commission) 
-        #see if user wantes another 
-        keep_going = raw-input('Do you want to calcualte another' + /)
+friends = ['Arham','David','Adam','Ed','Robin']
+for x in friends:
+    print("Happy New year, " + x + "!")
+    print("")
+    if len(x) > 5:
+        print("You have a lot of friends!")
 
 
 
